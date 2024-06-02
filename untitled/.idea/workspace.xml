@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0b3f0f3-36f7-4f21-b2cb-c673203a2eba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../LabSesion2/Machine Diagram Example 2.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/../LabSesion2/Machine Diagram Example 2.mdj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab1/Lab1_ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab1/Lab1_ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab1/Lab1_ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab2/Fir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab2/Lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab2/Window.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab3/JoinTestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Lab3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Lab1_ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Lab1_ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Lab1_ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/Fir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/Lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/Window.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab3/JoinTestThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ctisAVdNDHZl8iPdmubB28wy78" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Raluca/Desktop/Anul 2/SE/isp-labs-2023-repo-petrus-raluca-maria-30322/untitled&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab4.ex2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lab1_ex1">
+    <configuration name="Lab1_ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Lab1_ex1" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1_ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Lab1_ex2" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1_ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Lab1_ex3" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab3.Main" />
+        <item itemvalue="Application.Lab2.Main" />
+        <item itemvalue="Application.Lab1_ex3" />
+        <item itemvalue="Application.Lab1_ex2" />
+        <item itemvalue="Application.Lab1_ex1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b3f0f3-36f7-4f21-b2cb-c673203a2eba" name="Changes" comment="" />
+      <created>1708937482487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708937482487</updated>
+    </task>
+    <servers />
+  </component>
+</project>
